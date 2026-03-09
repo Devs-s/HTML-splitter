@@ -1,0 +1,4 @@
+beautifulsoup4
+requests
+tkinterdnd2
+# tkinter and ttk are included with Python standard library
